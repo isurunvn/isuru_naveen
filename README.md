@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inaveen00
+- 👋 Hi, I’m @isuru_naveen
 - 👀 I’m interested in software development
 - 🌱 I’m currently doing a CS related degree at University Of Colombo School Of Computing
 - 💞️ I’m looking to collaborate on the feild of full stack development
